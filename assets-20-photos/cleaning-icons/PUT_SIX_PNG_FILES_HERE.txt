@@ -1,0 +1,7 @@
+Place the six transparent PNG files here:
+cleaning-maintenance.png
+cleaning-general.png
+cleaning-after-renovation.png
+cleaning-office.png
+cleaning-dry-cleaning.png
+cleaning-windows.png

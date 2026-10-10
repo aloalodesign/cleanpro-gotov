@@ -1,0 +1,24 @@
+Copy the 20 generated images into this folder using these exact filenames:
+
+apartments-detail.webp
+apartments-hero.webp
+apartments-kitchen.webp
+general-bathroom.webp
+general-hero.webp
+general-kitchen.webp
+home-about.webp
+home-hero.webp
+home-result-bathroom.webp
+home-result-kitchen.webp
+home-result-renovation.webp
+home-service-after-renovation.webp
+home-service-general.webp
+home-service-maintenance.webp
+home-service-office.webp
+home-service-upholstery.webp
+home-where-house.webp
+renovation-dust-detail.webp
+renovation-finished-room.webp
+renovation-hero.webp
+
+The uploaded source ZIP did not contain the actual assets-20-photos directory, so the HTML paths are connected but the image binaries are not included in this archive.
